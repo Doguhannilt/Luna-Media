@@ -93,6 +93,45 @@
 
 
 <br>
+<h3>Why MongoDB</h3>
+<table>
+  <tr>
+    <th>Reason</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Flexible Schema</td>
+    <td>MongoDB's document-oriented database allows for a flexible schema, accommodating dynamic and evolving data structures without the need for predefined schemas.</td>
+  </tr>
+  <tr>
+    <td>Scalability</td>
+    <td>MongoDB's horizontal scaling capability enables the distribution of data across multiple servers, providing scalability to handle growing amounts of data and increased load.</td>
+  </tr>
+  <tr>
+    <td>JSON-Like Documents</td>
+    <td>MongoDB stores data in BSON (Binary JSON) format, offering a JSON-like representation that aligns well with JavaScript, making it easy to work with in web development.</td>
+  </tr>
+  <tr>
+    <td>Rich Query Language</td>
+    <td>MongoDB supports a powerful and expressive query language, allowing for complex queries and efficient retrieval of data based on various criteria.</td>
+  </tr>
+  <tr>
+    <td>Automatic Sharding</td>
+    <td>MongoDB provides automatic sharding, distributing data across multiple machines to improve performance and handle large datasets, enhancing overall system scalability.</td>
+  </tr>
+  <tr>
+    <td>Geospatial Indexing</td>
+    <td>MongoDB's support for geospatial indexing makes it well-suited for location-based applications, allowing efficient storage and retrieval of geospatial data.</td>
+  </tr>
+  <tr>
+    <td>Community and Documentation</td>
+    <td>MongoDB boasts a vibrant community and extensive documentation, providing valuable resources and support for developers during the development and troubleshooting process.</td>
+  </tr>
+</table>
+<div align="center">
+For website <a href="https://www.mongodb.com/atlas/database">click</a> me!
+</div>
+<br>
   
 <h3>Utilizing JWT for Authentication: Enhancing Security and Scalability</h3>
 
@@ -117,3 +156,7 @@
 <a href = "https://www.youtube.com/watch?v=JGLfyTDgfDc&t=462s"> Introducing Figma: A Beginners Tutorial (2023 UI UX Design) </a><br>
 <a href = "https://www.youtube.com/watch?v=DYtYyFOfpBY&t=1565s"> Redux For Beginners | Redux Tutorial with Redux Toolkit </a><br>
 <a href = "https://www.youtube.com/watch?v=RVFAyFWO4go&t=3s">React JS Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours</a><br>
+
+<div align="center">
+<h3>Thanks for reading my <i>DOC 🙂</i></h3>
+</div>
