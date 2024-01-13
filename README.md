@@ -2,21 +2,39 @@
 <img src="https://github.com/Doguhannilt/Luna-Media/assets/77373443/80e82dc6-301b-49ff-bc37-e69cbd2c667e" width="200"/>
 </div>
 
+
+## Table of Contents
+- [What is Luna Media?](https://github.com/Doguhannilt/Luna-Media/blob/master/README.md#what-is-luna-media)
+- [What type of technologies are used for design?](https://github.com/Doguhannilt/Luna-Media/blob/master/README.md#what-type-of-technologies-are-used-for-design)
+- [Why MERN?](https://github.com/Doguhannilt/Luna-Media/blob/master/README.md#why-mern)
+- [Redux](https://github.com/Doguhannilt/Luna-Media/blob/master/README.md#redux)
+- [Utilizing RESTful API in the Project: A Security-Driven Choice](https://github.com/Doguhannilt/Luna-Media/blob/master/README.md#utilizing-restful-api-in-the-project-a-security-driven-choice)
+- [Why MongoDB?](https://github.com/Doguhannilt/Luna-Media/blob/master/README.md#why-mongodb)
+- [Utilizing JWT for Authentication: Enhancing Security and Scalability](https://github.com/Doguhannilt/Luna-Media/blob/master/README.md#utilizing-jwt-for-authentication-enhancing-security-and-scalability)
+- [Additional Sources Used in the Project](https://github.com/Doguhannilt/Luna-Media/blob/master/README.md#additional-sources-used-in-the-project)
+
+Feel free to navigate to the specific sections of interest for detailed information.
+
+<br><br>
 <h3>What is Luna Media?</h3>
 
 - Luna Media is a MERN Full Stack project inspired by Threads.Net. Leveraging the robust capabilities of the MERN **(MongoDB, Express.js, React.js, Node.js)** technology stack.
 - The MERN stack, renowned for its versatility and scalability, forms the backbone of Luna Media, ensuring a robust foundation for both frontend and backend development. MongoDB provides a flexible and scalable NoSQL database, while Express.js simplifies the creation of robust server-side applications. React.js, known for its declarative and component-based approach, takes charge of the dynamic and interactive user interface.
 - Lastly, Node.js powers the backend, facilitating seamless communication between the server and the database.
+<div align="center">
 
+</div>
 <div align="center">
 <img src = "https://github.com/Doguhannilt/Luna-Media/assets/77373443/5f1f4f23-2b0f-443c-b619-45b0dfd8fec4" alt = "Ramotion" width = "550px"/>
 </div>
+
+
 <br>
 <h3>What type of technologies are used for design?</h3>
 
 - Luna Media, a project crafted using <span>Tailwind CSS and Chakra UI</span>, embodies a meticulous fusion of design technologies to elevate visual aesthetics and user experience. The incorporation of Tailwind CSS, a utility-first CSS framework, provides a highly customizable and responsive design system. <br> <br> This allows Luna Media to achieve a sleek and modern interface while ensuring efficiency in development.
 - Chakra UI, on the other hand, brings a component-based architecture to the forefront, streamlining the design and development process. With a focus on accessibility and a rich set of pre-designed components, Chakra UI enhances the consistency and coherence of Luna Media's user interface.</p>
-- Luna Media also integrates <span style=" color: green;">**Figma**</span> into its UI design process, adding another layer of sophistication to its visual aesthetics. Figma, a collaborative design tool, played a pivotal role in shaping Luna Media's user interface with its powerful features for creating, prototyping, and collaborating on designs in real-time.
+- Luna Media also integrates <span style=" color: green;">**Figma**</span> into its UI design process, adding another layer of sophistication to its visual aesthetics. Figma, a collaborative design tool, played a pivotal role in shaping Luna Media's user interface with its powerful features for creating, prototyping, and collaborating on designs in real time.
 <div align="center">
 
 <img src="https://github.com/Doguhannilt/Luna-Media/assets/77373443/b05aed05-bfc3-44eb-ac53-86068bb84a77" width="400"/>
@@ -53,7 +71,7 @@
   Benefits of MERN:
 </h3>
 <ol>
-  <li>End-to-End JavaScript: MERN allows developers to utilize JavaScript throughout the entire application.</li>
+  <li> End-to-end JavaScript: MERN allows developers to utilize JavaScript throughout the entire application.</li>
   <li>Rapid Prototyping: MongoDB and React.js enable rapid prototyping, accelerating the development lifecycle.</li>
   <li>Scalability: The scalability of MERN applications is inherent, thanks to the ability to horizontally scale both the server and the database.</li>
   <li>Rich Ecosystem: The extensive libraries, frameworks, and tools available for each component contribute to a rich ecosystem.</li>
@@ -141,7 +159,7 @@ For website <a href="https://www.mongodb.com/atlas/database">click</a> me!
 |--------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Scalability**                            | RESTful APIs offer scalability, accommodating an expanding user base and evolving data requirements while maintaining optimal performance.                   |
 | **Uniform Interface**                      | The consistent and standardized RESTful interface simplifies interactions between clients and servers, reducing potential security vulnerabilities.        |
-| **Statelessness**                          | Stateless interactions enhance security by eliminating the need to store client state on the server, reducing the risk of unauthorized access or tampering.     |
+| **Statelessness**                          | Stateless interactions enhance security by eliminating the need to store the client state on the server, reducing the risk of unauthorized access or tampering.     |
 | **Resource-Based Structure**               | A resource-based structure ensures a clear and hierarchical organization of data, facilitating easier management and enhancing overall security.               |
 | **HTTP Methods for CRUD Operations**       | Leveraging standard HTTP methods for CRUD operations (POST, GET, PUT/PATCH, DELETE) contributes to a well-defined and secure API.                                |
 
@@ -159,4 +177,7 @@ For website <a href="https://www.mongodb.com/atlas/database">click</a> me!
 
 <div align="center">
 <h3>Thanks for reading my <i>DOC 🙂</i></h3>
+
+
+<p><code>The website is separated into two files back-end and front-end and not integrated if you want to take the flag from me, go! </code></p>
 </div>
